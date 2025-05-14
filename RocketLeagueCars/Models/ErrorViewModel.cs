@@ -1,4 +1,4 @@
-namespace PROYECTO_FINAL_ENTORNS.Models;
+namespace RocketLeagueCars.Models;
 
 public class ErrorViewModel
 {

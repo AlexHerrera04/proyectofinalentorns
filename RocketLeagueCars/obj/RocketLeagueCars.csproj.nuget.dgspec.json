@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexh\\OneDrive\\Desktop\\PROYECTO FINAL ENTORNS\\PROYECTO FINAL ENTORNS.csproj": {}
+    "C:\\Users\\alexh\\OneDrive\\Desktop\\proyectofinal\\proyectofinalentorns\\RocketLeagueCars\\RocketLeagueCars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexh\\OneDrive\\Desktop\\PROYECTO FINAL ENTORNS\\PROYECTO FINAL ENTORNS.csproj": {
+    "C:\\Users\\alexh\\OneDrive\\Desktop\\proyectofinal\\proyectofinalentorns\\RocketLeagueCars\\RocketLeagueCars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexh\\OneDrive\\Desktop\\PROYECTO FINAL ENTORNS\\PROYECTO FINAL ENTORNS.csproj",
-        "projectName": "PROYECTO FINAL ENTORNS",
-        "projectPath": "C:\\Users\\alexh\\OneDrive\\Desktop\\PROYECTO FINAL ENTORNS\\PROYECTO FINAL ENTORNS.csproj",
+        "projectUniqueName": "C:\\Users\\alexh\\OneDrive\\Desktop\\proyectofinal\\proyectofinalentorns\\RocketLeagueCars\\RocketLeagueCars.csproj",
+        "projectName": "RocketLeagueCars",
+        "projectPath": "C:\\Users\\alexh\\OneDrive\\Desktop\\proyectofinal\\proyectofinalentorns\\RocketLeagueCars\\RocketLeagueCars.csproj",
         "packagesPath": "C:\\Users\\alexh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexh\\OneDrive\\Desktop\\PROYECTO FINAL ENTORNS\\obj\\",
+        "outputPath": "C:\\Users\\alexh\\OneDrive\\Desktop\\proyectofinal\\proyectofinalentorns\\RocketLeagueCars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexh\\AppData\\Roaming\\NuGet\\NuGet.Config"

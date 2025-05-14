@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using PROYECTO_FINAL_ENTORNS.Models;
+using RocketLeagueCars.Models;
 
-namespace PROYECTO_FINAL_ENTORNS.Controllers;
+namespace RocketLeagueCars.Controllers;
 
 public class HomeController : Controller
 {
