@@ -1,0 +1,31 @@
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\bin\Debug\net8.0\appsettings.json
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\bin\Debug\net8.0\PROYECTO FINAL ENTORNS.staticwebassets.runtime.json
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\bin\Debug\net8.0\PROYECTO FINAL ENTORNS.exe
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\bin\Debug\net8.0\PROYECTO FINAL ENTORNS.deps.json
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\bin\Debug\net8.0\PROYECTO FINAL ENTORNS.runtimeconfig.json
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\bin\Debug\net8.0\PROYECTO FINAL ENTORNS.dll
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\bin\Debug\net8.0\PROYECTO FINAL ENTORNS.pdb
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.AssemblyInfoInputs.cache
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.AssemblyInfo.cs
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.csproj.CoreCompileInputs.cache
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.RazorAssemblyInfo.cache
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.RazorAssemblyInfo.cs
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.sourcelink.json
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\staticwebassets\msbuild.PROYECTO FINAL ENTORNS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\staticwebassets\msbuild.build.PROYECTO FINAL ENTORNS.props
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PROYECTO FINAL ENTORNS.props
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PROYECTO FINAL ENTORNS.props
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\scopedcss\bundle\PROYECTO FINAL ENTORNS.styles.css
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\scopedcss\projectbundle\PROYECTO FINAL ENTORNS.bundle.scp.css
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.dll
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\refint\PROYECTO FINAL ENTORNS.dll
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.pdb
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\PROYECTO FINAL ENTORNS.genruntimeconfig.cache
+C:\Users\alexh\OneDrive\Desktop\PROYECTO FINAL ENTORNS\obj\Debug\net8.0\ref\PROYECTO FINAL ENTORNS.dll
